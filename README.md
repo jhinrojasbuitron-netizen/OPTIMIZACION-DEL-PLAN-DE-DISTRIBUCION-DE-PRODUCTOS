@@ -41,13 +41,11 @@ Es necesario contar con uno de los siguientes softwares de optimización:
 ## Evidencias de la Investigación
 
 ### Interfaz
-> *Diseño de la interfaz.*
 <p align="center">
-  <img src="./Interfaz Imageness/InterfazPrincipal.PNG" width="800" alt="Interfaz Principal">
+  <img src="./Interfaz Imagenes/InterfazPrincipal.PNG" width="800" alt="Interfaz Principal">
 </p>
 
 ### Resultados
-> *Procesamiento y obtención de la solución óptima mediante software analítico.*
 <p align="center">
   <img src="./Interfaz Imagenes/Pruebas.PNG" width="800" alt="Resultados">
 </p>
